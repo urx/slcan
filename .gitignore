@@ -1,0 +1,8 @@
+*.o
+*.lst
+*.map
+*.d
+*.elf
+*.hex
+generated.*
+gdb.cfg
